@@ -1,18 +1,18 @@
-# CATHeaPS
+# CAT HeaPS
 
-This library contains **CATHeaPS**, a **C**entralisation **A**nalysis **T**ool for **Hea**t **P**ump **S**ystems.
+This library contains **CAT HeaPS**, a **C**entralisation **A**nalysis **T**ool for **Hea**t **P**ump **S**ystems.
 
 ![Logo!](Miscellaneous/CATHeaPS%20Logo.JPG)
 
-**CATHeaPS** is an open access modelling tool for the technoeconomic assessment of (a) district heating networks with a centralised WSHP, and (b) ambient networks with decentralised dwelling or plantroom level WSHP against individual ASHPs and gas boilers for a range of consumer classes. This novel open access technoeconomic tool can complete a high-level energy, hydraulic and economic analysis for any building schedule provided in seconds. This work contributes to the ongoing efforts towards heat decarbonisation by quantifying the boundaries of beneficial operation of different energy system approaches.
+**CAT HeaPS** is an open access modelling tool for the technoeconomic assessment of (a) district heating networks with a centralised WSHP, and (b) ambient networks with decentralised dwelling or plantroom level WSHP against individual ASHPs and gas boilers for a range of consumer classes. This novel open access technoeconomic tool can complete a high-level energy, hydraulic and economic analysis for any building schedule provided in seconds. This work contributes to the ongoing efforts towards heat decarbonisation by quantifying the boundaries of beneficial operation of different energy system approaches.
 
 # Model Overview
 
-**CATHeaPS** is developed in Excel as it offers a combination of simplicity and sufficient coding capacity (through VBA) and is also widely available. It is intended to allow multivariable comparison and a break-even analysis of the results through simulations for a range of different scenarios. It, therefore, provides a comprehensive and effective economic and environmental evaluation of alternative approaches to providing heat for a user-defined area input. 
+**CAT HeaPS** is developed in Excel as it offers a combination of simplicity and sufficient coding capacity (through VBA) and is also widely available. It is intended to allow multivariable comparison and a break-even analysis of the results through simulations for a range of different scenarios. It, therefore, provides a comprehensive and effective economic and environmental evaluation of alternative approaches to providing heat for a user-defined area input. 
 
 # Structure and information
 
-The structure of the **CATHeaPS** along with information of each of the worksheets is shown below.
+The structure of the **CAT HeaPS** along with information of each of the worksheets is shown below.
 
 |Worsheet|Description|
 |---|---|
@@ -38,10 +38,10 @@ Furthermore, all networks studied are simplified and linear. The incorporation o
 
 # Requirements
 
-**CATHeaPS** is a Macro enabled workbook developed on Excel 2019.
+**CAT HeaPS** is a Macro enabled workbook developed on Excel 2019.
 
 # Aknowledgements
 
-**CATHeaPS** was developed by Angelidis, O., Ioannou, A., Friedrich, D., Thomson, A., Falcone, G. as part of an industrial PhD program. 
+**CAT HeaPS** was developed by Angelidis, O., Ioannou, A., Friedrich, D., Thomson, A., Falcone, G. as part of an industrial PhD program. 
 
 This work was partially funded by the University of Glasgow, Energy Technology Partnership (ETP) and Ramboll under grant agreement No ETP 189. The authors would like to thank the Ramboll Foundation for its financial support under grant agreement No 2020-101 and Ramboll UK Energy Systems business unit for its technical support. 
