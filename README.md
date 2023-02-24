@@ -1,5 +1,7 @@
 # CATHeaPS
 
+![asdfas](C:\Users\2072680a\Documents\GitHub\CATHeaPS\Miscellaneous\CATHeaPS Logo.JPG)
+
 This library contains **CATHeaPS**, a **C**entralisation **A**nalysis **T**ool for **Hea**t **P**ump **S**ystems.
 
 # Model Overview
