@@ -1,3 +1,5 @@
+|![ETPLogo!](Miscellaneous\ETP.jfif)|![UoGLogo!](Miscellaneous\Glasgow.jfif)|
+
 # CATHeaPS
 
 This library contains **CATHeaPS**, a **C**entralisation **A**nalysis **T**ool for **Hea**t **P**ump **S**ystems.
