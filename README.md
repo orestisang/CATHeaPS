@@ -4,9 +4,9 @@
 
 This library contains **CATHeaPS**, a **C**entralisation **A**nalysis **T**ool for **Hea**t **P**ump **S**ystems.
 
-![Logo!](Miscellaneous/CATHeaPS%20Logo.JPG)
-
 **CATHeaPS** is an open access modelling tool for the technoeconomic assessment of (a) district heating networks with a centralised WSHP, and (b) ambient networks with decentralised dwelling or plantroom level WSHP against individual ASHPs and gas boilers for a range of consumer classes. This novel open access technoeconomic tool can complete a high-level energy, hydraulic and economic analysis for any building schedule provided in seconds. This work contributes to the ongoing efforts towards heat decarbonisation by quantifying the boundaries of beneficial operation of different energy system approaches.
+
+![Logo!](Miscellaneous/CATHeaPS%20Logo.JPG)
 
 # Model Overview
 
