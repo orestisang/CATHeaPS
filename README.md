@@ -1,4 +1,4 @@
-|![UoGLogo!](Miscellaneous\Glasgow.png)|![UoELogo!](Miscellaneous\UoE.png)|
+|![UoGLogo!](Miscellaneous/Glasgow.png)|![UoELogo!](Miscellaneous/UoE.png)|
 
 # CATHeaPS
 
@@ -48,4 +48,4 @@ Furthermore, all networks studied are simplified and linear. The incorporation o
 
 This work was partially funded by the University of Glasgow, Energy Technology Partnership (ETP) and Ramboll under grant agreement No ETP 189. The authors would like to thank the Ramboll Foundation for its financial support under grant agreement No 2020-101 and Ramboll UK Energy Systems business unit for its technical support. 
 
-|![ETPLogo!](Miscellaneous\ETP.png)|![Ramboll!](Miscellaneous\Ramboll.svg.png)|
+|![ETPLogo!](Miscellaneous/ETP.png)|![Ramboll!](Miscellaneous/Ramboll.svg.png)|
