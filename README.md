@@ -43,10 +43,20 @@ Furthermore, all networks studied are simplified and linear. The incorporation o
 
 **CATHeaPS** is a Macro enabled workbook developed on Excel 2019.
 
+# Relevant publication and citation of the dataset
+
+The dataset was published in University of Glasgow’s Enlighten Repository and was assigned a URI. It should be cited as:
+
+Angelidis, O. (2023); CATHeaPS; GitHub; https://researchdata.gla.ac.uk/1638; Retrieved: 2025-01-08.
+
+For a more detailed analysis of the methodology of CATHeaPS and a use case for heating only systems, the following publication in the scientific journal Heliyon can be visited:
+
+Angelidis, Orestis et al., Heliyon, Volume 11, Issue 1, e41396. Openly available at: https://www.cell.com/heliyon/fulltext/S2405-8440(24)17427-0
+
 # Aknowledgements
 
 **CATHeaPS** was developed by Oresstis Angelidis, Anastasia Ioannou, Daniel Friedrich, Alan Thomson, and Gioia Falcone as part of an industrial PhD program. 
 
-This work was partially funded by the University of Glasgow, Energy Technology Partnership (ETP) and Ramboll under grant agreement No ETP 189. The authors would like to thank the Ramboll Foundation for its financial support under grant agreement No 2020-101 and Ramboll UK Energy Systems business unit for its technical support. 
+This work was supported by the UK Engineering and Physical Sciences Research Council (EPSRC) grant EP/T023112/1: INTEGRATE (Integrating seasoNal Thermal storagE with multiple enerGy souRces to decArobonise Thermal Energy). It was also partially funded by the Energy Technology Partnership (ETP), Ramboll (including contributions from both Ramboll Foundation [grant No. 2020-101] and Ramboll UK) and the University of Glasgow under grant agreement ETP 189.
 
 ![ETPLogo!](Miscellaneous/Funding_Logos.jpg)
