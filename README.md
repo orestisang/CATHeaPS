@@ -45,18 +45,20 @@ Furthermore, all networks studied are simplified and linear. The incorporation o
 
 # Relevant publication and citation of the dataset
 
-The dataset was published in University of Glasgow’s Enlighten Repository and was assigned a URI. It should be cited as:
+The dataset is published in University of Glasgow’s Enlighten Repository. It should be cited as:
 
 Angelidis, O. (2023); CATHeaPS; GitHub; https://researchdata.gla.ac.uk/1638; Retrieved: 2025-01-08.
 
-For a more detailed analysis of the methodology of CATHeaPS and a use case for heating only systems, the following publication in the scientific journal Heliyon can be visited:
+For a more detailed analysis of the methodology of **CATHeaPS** and a use case for heating only systems, the following publication in the scientific journal Heliyon can be visited:
 
 Angelidis, Orestis et al., Heliyon, Volume 11, Issue 1, e41396. Openly available at: https://www.cell.com/heliyon/fulltext/S2405-8440(24)17427-0
 
+For a complete understanding of **CATHeaPS** along with economic and environmental analyses on heating and cooling districts, and an example of its use in a real world case study in Clyde Gateway, the PhD thesis of Orestis Angelidis can be advised. The thesis will become openly available in spring 2025.
+
 # Aknowledgements
 
-**CATHeaPS** was developed by Oresstis Angelidis, Anastasia Ioannou, Daniel Friedrich, Alan Thomson, and Gioia Falcone as part of an industrial PhD program. 
+**CATHeaPS** is developed by Orestis Angelidis with the support of Anastasia Ioannou, Daniel Friedrich, Alan Thomson, and Gioia Falcone as part of his industrial PhD program. 
 
-This work was supported by the UK Engineering and Physical Sciences Research Council (EPSRC) grant EP/T023112/1: INTEGRATE (Integrating seasoNal Thermal storagE with multiple enerGy souRces to decArobonise Thermal Energy). It was also partially funded by the Energy Technology Partnership (ETP), Ramboll (including contributions from both Ramboll Foundation [grant No. 2020-101] and Ramboll UK) and the University of Glasgow under grant agreement ETP 189.
+This work is supported by the UK Engineering and Physical Sciences Research Council (EPSRC) grant EP/T023112/1: INTEGRATE (Integrating seasoNal Thermal storagE with multiple enerGy souRces to decArobonise Thermal Energy). It is also partially funded by the Energy Technology Partnership (ETP), Ramboll (including contributions from both Ramboll Foundation [grant No. 2020-101] and Ramboll UK) and the University of Glasgow under grant agreement ETP 189.
 
 ![ETPLogo!](Miscellaneous/Funding_Logos.jpg)
